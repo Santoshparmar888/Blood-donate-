@@ -53,7 +53,7 @@
  }
  
  #main , #footer {
-   background-image: url("img/pattern.jpg");
+   background-image: url("pattern.jpg");
    background-repeat: no-repeat;
    background-size: cover;
    
